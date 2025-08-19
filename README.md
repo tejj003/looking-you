@@ -65,8 +65,6 @@ The installation can be customized by modifying:
 This installation processes video locally in your browser. No video data is transmitted or stored. The camera feed is used solely for real-time color tracking.
 
 ## Credits
-
-- Eye shape design inspired by: https://openprocessing.org/sketch/1279213
 - Built with p5.js (https://p5js.org/)
 - Concept and implementation by Tejj
 
